@@ -1,3 +1,6 @@
 [submodule "Project1"]
 	path = Project1
 	url = https://github.com/XarthDaichi/Project1-Programming3.git
+[submodule "Chat"]
+	path = Chat
+	url = https://github.com/XarthDaichi/chat-project.git
