@@ -89,7 +89,6 @@ public class Application {
         p.setVisible(true);*/
 
         // trying to make the PERSONA interface from start of presentation
-
         JFrame gui = new JFrame("PERSONA");
         gui.setSize(500, 350);
         gui.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
@@ -249,6 +248,8 @@ public class Application {
         });
 
         gui.setVisible(true);
+
+
         System.out.println("Main terminal!");
     }
 }

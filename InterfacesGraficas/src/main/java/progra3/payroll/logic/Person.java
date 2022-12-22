@@ -14,7 +14,7 @@ public class Person {
         this.name = "";
         this.sex = true;
         this.civil_state = "";
-        this.hobbies = new java.util.ArrayList<>();
+        this.hobbies = new java.util.ArrayList<String>();
     }
 
     public Person(int id, String name, boolean sex, String civil_state, java.util.List<String> hobbies) {
